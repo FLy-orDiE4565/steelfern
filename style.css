@@ -2,6 +2,10 @@
     font-family: 'Concrete';
     src: url('fonts/Concrete.ttf') format('truetype');
 }
+@font-face {
+    font-family: 'Coutore';
+    src: url('fonts/COUTURE-Bold.ttf') format('truetype');
+}
 @keyframes eskRotate {
     from {transform: rotateY(0deg);}
     to {transform: rotateY(1080deg);}
@@ -11,7 +15,7 @@ body {
     background-color:#050833;
 }
 .attacrack {
-    font-family: 'Concrete', sans-serif;
+    font-family: 'Coutore', sans-serif;
     text-decoration: none;
     font-size: 20px;
     margin: 10px 10px 6px 10px;
